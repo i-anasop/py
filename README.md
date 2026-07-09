@@ -2,6 +2,6 @@
 
 ## Step by Step
 
-### Brick by Brick 🧱
+### Brick by Brick
 
 </div>
