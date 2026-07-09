@@ -1,3 +1,7 @@
+<div align="center">
+
 ## Step by Step
 
-> ### Brick by Brick 🧱
+### Brick by Brick 🧱
+
+</div>
